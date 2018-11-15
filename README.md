@@ -1,0 +1,2 @@
+# kautomate
+kubedeployment
